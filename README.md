@@ -17,7 +17,7 @@ INSTRUÇÕES
   
   2 - Rodar o servidor Mysql.  
   
-  3 - Executar o programa com o comando "node servidor.js"
+  3 - Executar o programa com o comando "node server.js"
   
   
 
