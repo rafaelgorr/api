@@ -18,8 +18,7 @@ EXECUÇÃO (POSTMAN)
   5 - Registrar Sensor ( sensor )                           -->     [POST] localhost:8000/api/sensor
   6 - Registrar Stream ( stream ) para Sensor ( sensor )    -->     [POST] localhost:8000/api/streams/:sensor_key
   7 - Publicar dado em um Stream ( stream )                 -->     [POST] localhost:8000/api/data/:stream_key
-  
-  
-  
+
+
+
 PS.: Para obter as chaves de stream, sensor, etc é necessário fazer uma consulta no Mysql Workbench, ex.: "select stream.key from rafaelgorr.stream"
-  
